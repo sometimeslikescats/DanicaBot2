@@ -1,3 +1,11 @@
+# Hello!
+
+This is a simplified version of a work in progress bot that will evolve into much more!
+The initial premise was to create something that would sit on a portfolio and allow visitors to have a mini conversation with me. In this project you can see the initial and restricted conversation flow with some interactions at the end. The next phase is including a language matrix that allows the user varied conversation flows. In past experience this has been done with something as simple as a spreadsheet - but I want to go a bit further than that. I'm working on utilising machine learning. This is so that over time the bot becomes smarter and smarter. *cue evil laughter in the distance*
+
+So, consider this the barebones! :) 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
